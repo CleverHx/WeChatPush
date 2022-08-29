@@ -1,0 +1,18 @@
+server:
+    port: 8080          #端口
+date:
+    loveDay: "2016-12-02"   #恋爱开始时间
+    birthDay1: "2001-02-13"  #对象生日
+    birthDay2: "2001-07-25"  #自己生日
+    meetDay: "2022-09-09"    #将要见面日期
+WeChat:
+    appid: "w97a4e711e89"    #appid
+    appsecret: "5d80a96ce7b474" #appsecret
+    template_id: "JhftDx9dHsulTk1l_d3vWw18f4"  #模板id
+    openid: "o44TR-ggGXFC7Y" #网页获取到的微信号,多个用英文逗号分隔
+Weather:
+    weaapi: "b0111972efa6a" #天气api
+    city: "科尔沁左翼后旗"   #地址，支持到三级
+    xz: "狮子座"       #星座
+    rainapi: ""         #彩红屁api
+    xzapi: ""        #星座api
