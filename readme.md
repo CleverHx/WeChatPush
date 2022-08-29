@@ -10,13 +10,15 @@
 
 **Github下载文件方法**
 
-[![img](https://5hx.ink/wp-content/uploads/2022/08/image-1.png)](https://5hx.ink/wp-content/uploads/2022/08/image-1.png)
+![image](https://user-images.githubusercontent.com/102504985/187115195-18009b09-634d-47f1-8294-446c02070a7d.png)
+
 
 点击`Code`，再点击 `Download ZIP`
 
 **码云下载文件方法**
 
-[![img](https://5hx.ink/wp-content/uploads/2022/08/image-2.png)](https://5hx.ink/wp-content/uploads/2022/08/image-2.png)
+![image](https://user-images.githubusercontent.com/102504985/187115229-e710245f-a637-4edb-b454-167bc76c21e5.png)
+
 
 先点击`克隆/下载`，再点击`下载ZIP`
 
@@ -28,17 +30,20 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 
 扫码登录成功后，就可以生成微信公众测试号的appID和appsecret这两串数字需要记住，后面会用到
 
-[![img](https://5hx.ink/wp-content/uploads/2022/08/image-3.png)](https://5hx.ink/wp-content/uploads/2022/08/image-3.png)
+![image](https://user-images.githubusercontent.com/102504985/187115277-7bc44dc4-8128-4774-98fa-5cd8fb7bb1ca.png)
+
 
 扫描测试号二维码后会生成微信号，哪个账号需要接收推送信息就需要哪个账号扫码
 
-[![img](https://5hx.ink/wp-content/uploads/2022/08/image-4.png)](https://5hx.ink/wp-content/uploads/2022/08/image-4.png)
+![image](https://user-images.githubusercontent.com/102504985/187115298-6f51b7ff-8656-4f1e-9c83-a5bd1e059443.png)
+
 
 这里需要记住的是对应账号的微信号，也就是user id，后面需要用
 
 ## 新增测试模板
 
-[![img](https://5hx.ink/wp-content/uploads/2022/08/image-6.png)](https://5hx.ink/wp-content/uploads/2022/08/image-6.png)
+![image](https://user-images.githubusercontent.com/102504985/187115333-b4940e30-1b2e-43e1-8cee-254a3b5fa168.png)
+
 
 这里点击`新增测试模板`
 
@@ -112,12 +117,15 @@ Weather:
 
 ②点击文件路径，输入cmd回车确定，会弹出一个命令窗口
 
-[![img](https://5hx.ink/wp-content/uploads/2022/08/image-8.png)](https://5hx.ink/wp-content/uploads/2022/08/image-8.png)
+
+![image](https://user-images.githubusercontent.com/102504985/187115364-a5253b4f-c069-493e-a1eb-d08f2c661597.png)
+
 
 ③在黑窗口命令界面输入“java -jar wechatpush-0.0.1-SNAPSHOT.jar”，回车确定之后程序就运行起来了，等到程序出现如图界面时，浏览器打开localhost:8080，(这个8080是跟application.yml中的port对应的)就推送成功啦~
 
 一定要改完配置文件再打开黑窗口
 
-[![img](https://5hx.ink/wp-content/uploads/2022/08/image-9.png)](https://5hx.ink/wp-content/uploads/2022/08/image-9.png)
 
-[![img](https://5hx.ink/wp-content/uploads/2022/08/d4aa5e98f2fa5cdf5d571adf2d6063e.jpg)](https://5hx.ink/wp-content/uploads/2022/08/d4aa5e98f2fa5cdf5d571adf2d6063e.jpg)
+![image](https://user-images.githubusercontent.com/102504985/187115434-3f0a51b5-fa4c-410a-9905-2eaa7ea50416.png)
+
+![image](https://user-images.githubusercontent.com/102504985/187115462-259dbcba-1606-417e-8d65-67139826f865.png)
