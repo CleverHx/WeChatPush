@@ -5,7 +5,7 @@
 ```
 博客教程地址为：https://5hx.ink/492.html
 该项目的Github地址为：https://github.com/CleverHx/WeChatPush
-该项目的码云地址为：https://gitee.com/cleverhx/we-chat-push
+该项目的码云地址为：https://gitee.com/CleverHx/WeChatPush
 ```
 
 **Github下载文件方法**
